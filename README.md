@@ -1,4 +1,4 @@
-# React tutorial project 2 results
+# React tutorial project 2 results - Business card
 
 This is the result of completing a solo assignment from a tutorial by freeCodeCamp.org on youtube. [Link to video](https://www.youtube.com/watch?v=bMknfKXIFA8&t=12s&ab_channel=freeCodeCamp.org)
 
