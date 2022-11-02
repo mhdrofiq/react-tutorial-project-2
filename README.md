@@ -1,4 +1,4 @@
-# React tutorial project 1 results
+# React tutorial project 2 results
 
 This is the result of completing an assignment from a tutorial by freeCodeCamp.org on youtube. [Link to video](https://www.youtube.com/watch?v=bMknfKXIFA8&t=12s&ab_channel=freeCodeCamp.org)
 
